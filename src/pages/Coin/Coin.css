@@ -64,3 +64,9 @@
 .coin-info ul li:last-child{
     font-weight: 300;
 }
+
+.error{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
